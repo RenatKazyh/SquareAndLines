@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Ufa-nipi\bin\Debug\Ufa-nipi.exe.config
+C:\Users\User\source\repos\Ufa-nipi\bin\Debug\Ufa-nipi.exe
+C:\Users\User\source\repos\Ufa-nipi\bin\Debug\Ufa-nipi.pdb
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa-nipi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa_nipi.Form1.resources
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa_nipi.Properties.Resources.resources
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa-nipi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa-nipi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa-nipi.exe
+C:\Users\User\source\repos\Ufa-nipi\obj\Debug\Ufa-nipi.pdb
